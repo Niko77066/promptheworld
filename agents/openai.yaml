@@ -1,0 +1,4 @@
+interface:
+  display_name: "Promptheworld"
+  short_description: "把粗糙任务描述升级为 Fable 5 高效执行提示词"
+  default_prompt: "Use $promptheworld to polish this rough request into a paste-ready Fable 5 task prompt."
